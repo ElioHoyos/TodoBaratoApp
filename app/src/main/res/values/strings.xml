@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TodoBaratoApp</string>
+    <string name="estado_activa">Activa</string>
+    <string name="estado_inactiva">Inactiva</string>
+    <string name="marcas_vacio">No hay marcas registradas</string>
+    <string name="reintentar">Reintentar</string>
 </resources>
